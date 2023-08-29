@@ -1,0 +1,219 @@
+screenshot-2023-08-26-235210-1 {
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    width: 1920px;
+    height: 1084px;
+    object-fit: cover;
+  }
+  .frame-child {
+    align-self: stretch;
+    position: relative;
+    border-radius: 0px 0px var(--br-11xl) var(--br-11xl);
+    background-color: var(--color-gray);
+    backdrop-filter: blur(100px);
+    height: 113px;
+  }
+  .frame {
+    cursor: pointer;
+    border: none;
+    padding: 0;
+    background-color: transparent;
+    position: absolute;
+    top: -4px;
+    left: 0px;
+    width: 1920px;
+    overflow: hidden;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: flex-end;
+  }
+  .frame-icon {
+    position: absolute;
+    top: 0px;
+    left: 38px;
+    width: 50px;
+    height: 85px;
+    overflow: hidden;
+  }
+  .iiit-studytube {
+    position: relative;
+    display: inline-block;
+    font-weight: 700;
+    width: 243px;
+    height: 26px;
+    flex-shrink: 0;
+  }
+  .frame1 {
+    position: absolute;
+    top: -4px;
+    left: 103px;
+    width: 243px;
+    height: 73px;
+    overflow: hidden;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: flex-end;
+    font-size: var(--font-size-11xl);
+  }
+  .feedback {
+    position: relative;
+    display: inline-block;
+    font-weight: 500;
+    width: 115px;
+    height: 26px;
+    flex-shrink: 0;
+  }
+  .frame2 {
+    position: absolute;
+    top: -4px;
+    left: 602px;
+    width: 115px;
+    height: 73px;
+    overflow: hidden;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: flex-end;
+  }
+  .frame3 {
+    position: absolute;
+    top: -4px;
+    left: 736px;
+    width: 115px;
+    height: 73px;
+    overflow: hidden;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: flex-end;
+  }
+  .creators {
+    position: relative;
+    display: inline-block;
+    font-weight: 500;
+    width: 105.63px;
+    height: 26px;
+    flex-shrink: 0;
+  }
+  .frame4 {
+    position: absolute;
+    top: -4px;
+    left: 473px;
+    width: 105.63px;
+    height: 73px;
+    overflow: hidden;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: flex-end;
+  }
+  .creators1 {
+    position: relative;
+    display: inline-block;
+    font-weight: 500;
+    width: 81px;
+    height: 26px;
+    flex-shrink: 0;
+  }
+  .frame5 {
+    position: absolute;
+    top: -4px;
+    left: 369px;
+    width: 81px;
+    height: 75px;
+    overflow: hidden;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: flex-end;
+  }
+  .books-1-icon {
+    position: relative;
+    width: 35px;
+    height: 35px;
+    object-fit: cover;
+  }
+  .frame6 {
+    position: absolute;
+    top: -4px;
+    left: 46px;
+    width: 35px;
+    height: 78px;
+    overflow: hidden;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: flex-end;
+  }
+  .picture1-removebg-preview-1 {
+    position: relative;
+    width: 113px;
+    height: 109px;
+    object-fit: cover;
+  }
+  .frame7 {
+    position: absolute;
+    top: -4px;
+    left: 1765px;
+    width: 113px;
+    height: 117px;
+    overflow: hidden;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: flex-end;
+  }
+  .frame-item {
+    position: relative;
+    border-radius: var(--br-11xl);
+    background-color: var(--color-mediumslateblue);
+    width: 136px;
+    height: 46px;
+    cursor: pointer;
+  }
+  .frame8 {
+    position: absolute;
+    top: -4px;
+    left: 1592px;
+    width: 136px;
+    height: 85px;
+    overflow: hidden;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: flex-end;
+  }
+  .creators2 {
+    position: relative;
+    display: inline-block;
+    font-weight: 500;
+    width: 65px;
+    height: 26px;
+    flex-shrink: 0;
+  }
+  .frame9 {
+    position: absolute;
+    top: -4px;
+    left: 1625px;
+    width: 65px;
+    height: 73px;
+    overflow: hidden;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: flex-end;
+  }
+  .screenshot-2023-08-26-235210-1-parent {
+    position: relative;
+    background: linear-gradient(#d9d9d9, #d9d9d9), #fff;
+    width: 100%;
+    height: 1080px;
+    overflow: hidden;
+    text-align: left;
+    font-size: var(--font-size-5xl);
+    color: var(--color-white);
+    font-family: var(--font-inter);
+  }
